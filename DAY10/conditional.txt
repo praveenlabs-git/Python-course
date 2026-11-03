@@ -1,0 +1,34 @@
+# Python Conditional Statements
+
+## 1. Simple `if` Statement
+
+Real-world application: Weather application – checking rainy conditions.
+
+A weather application checks whether the probability of rain is greater than 70%. If the probability is above 70%, the application displays a message suggesting that users carry an umbrella.
+
+## 2. `if-else` Statement
+
+Real-world application: Driving licence eligibility.
+
+A driving licence application checks whether a person is 18 years old or above. If the person meets the age requirement, the application displays that they are eligible for a driving licence. Otherwise, it displays that they are not eligible.
+
+## 3. `if-elif-else` Statement
+
+Real-world application: Railway ticket booking – checking seat availability.
+
+A railway ticket booking application checks the number of available seats. If 10 or more seats are available, the booking is confirmed. If fewer than 10 seats are available but at least one seat is available, it displays a limited seats message. If no seats are available, the ticket is placed on the waiting list.
+
+## 4. Nested `if` Statement
+
+Real-world application: ATM application – PIN verification and cash withdrawal.
+
+An ATM application first verifies whether the entered PIN is correct. If the PIN is correct, it checks whether the customer's account has sufficient balance for the withdrawal. If both conditions are satisfied, the transaction is completed. Otherwise, the application displays an appropriate error message.
+
+## Quick Revision
+
+| No. | Conditional statement | Real-world application      |
+| --- | --------------------- | --------------------------- |
+| 1   | Simple `if`           | Weather – rainy conditions  |
+| 2   | `if-else`             | Driving licence eligibility |
+| 3   | `if-elif-else`        | Railway ticket availability |
+| 4   | Nested `if`           | ATM PIN verification        |
