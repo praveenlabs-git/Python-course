@@ -1,0 +1,9 @@
+str list tuple set dict range()
+
+for i in seq:
+   #statement
+
+
+   range(start,end+1,split)
+
+   
