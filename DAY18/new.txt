@@ -1,0 +1,16 @@
+What is a Function
+It is a reusable block of code used for performing a specific task.
+Why Fuctions
+We use fuction for:
+-->Modularity
+-->Maintanibalityu
+-->reusability
+-->code reduction
+-->Debugging
+-->Parameters ETC...
+
+
+syntax:
+def fun_name(agr):
+    (str)
+    
