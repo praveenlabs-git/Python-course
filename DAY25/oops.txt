@@ -1,0 +1,32 @@
+why we are using  procedural programming instaed of  object oriented prograrnning
+Procedural programming is suitable for small, simple programs,
+ while OOP is preferred for large, complex, and reusable applications.
+
+what is a class
+A class is a blueprint that consists of attributes and methods.
+
+what is a object
+An object is an instance of a class that contains data and behaviour.
+example: the user who uses the applications are the objects
+
+what is a attribute
+An attribute is a variable that stores data related to a class or object.
+example : it simply means it store the values.
+
+what is a method 
+A method is a function defined inside a class that represents its behaviour.
+
+what is enclaulation
+Encapsulation is the process of combining data and methods into a single unit and controlling access to the data.
+example: In an application, updating the app version through a controlled update function without directly modifying the internal version data.
+what is inheritence 
+Inheritance allows one class to acquire the properties and methods of another class.
+example: In an application, different user roles such as Admin, Customer, and Employee inherit common properties and methods from a User class.
+
+what is polymorsim
+Polymorphism allows the same method or interface to perform different behaviours.
+example: In an application, different payment methods such as UPI, Credit Card, and Net Banking use the same make_payment() method but process payments differently.
+
+what is abstration
+Abstraction hides implementation details and shows only essential features to the user.
+example: In a payment gateway, users call a simple pay() method without knowing the internal processes such as payment verification, bank communication, and transaction processing.

@@ -1,0 +1,37 @@
+we have five types of inhertence
+
+* single inherting
+* multi level inherting
+* multiple inherting
+* hybrid inherting
+*higher archi
+
+**1. Single Inheritance**
+
+- One child class inherits properties and methods from one parent class.
+- It helps reuse the code of a single parent class.
+- Example: `Father → Son`
+
+**2. Multiple Inheritance**
+
+- One child class inherits properties and methods from two or more parent classes.
+- It allows a child class to use features from multiple classes.
+- Example: `Father + Mother → Child`
+
+**3. Multilevel Inheritance**
+
+- A class inherits from another child class, forming multiple levels.
+- The child class can access the properties of its parent and grandparent classes.
+- Example: `Grandfather → Father → Son`
+
+**4. Hierarchical Inheritance**
+
+- Two or more child classes inherit properties and methods from one parent class.
+- It allows multiple classes to reuse the same parent class features.
+- Example: `Father → Son and Daughter`
+
+**5. Hybrid Inheritance**
+
+- It is a combination of two or more types of inheritance.
+- It combines different inheritance structures in a single program.
+- Example: A combination of multiple and hierarchical inheritance.
